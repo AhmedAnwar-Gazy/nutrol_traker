@@ -16,5 +16,22 @@ namespace nutrol_traker
         {
             InitializeComponent();
         }
+
+        private void textBox1_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void Login_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void GoForSignUp_Click(object sender, EventArgs e)
+        {
+            RegistrationForm registrationForm = new RegistrationForm();
+            registrationForm.Show();
+            this.Hide();
+        }
     }
 }
