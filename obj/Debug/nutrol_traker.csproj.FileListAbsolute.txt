@@ -1,0 +1,13 @@
+C:\Users\fisal\Desktop\Zfood\nutrol_traker\bin\Debug\nutrol_traker.exe.config
+C:\Users\fisal\Desktop\Zfood\nutrol_traker\bin\Debug\nutrol_traker.exe
+C:\Users\fisal\Desktop\Zfood\nutrol_traker\bin\Debug\nutrol_traker.pdb
+C:\Users\fisal\Desktop\Zfood\nutrol_traker\obj\Debug\nutrol_traker.csproj.AssemblyReference.cache
+C:\Users\fisal\Desktop\Zfood\nutrol_traker\obj\Debug\nutrol_traker.ExportDialog.resources
+C:\Users\fisal\Desktop\Zfood\nutrol_traker\obj\Debug\nutrol_traker.LoginForm.resources
+C:\Users\fisal\Desktop\Zfood\nutrol_traker\obj\Debug\nutrol_traker.NutrientVisualizationForm.resources
+C:\Users\fisal\Desktop\Zfood\nutrol_traker\obj\Debug\nutrol_traker.Properties.Resources.resources
+C:\Users\fisal\Desktop\Zfood\nutrol_traker\obj\Debug\nutrol_traker.RegistrationForm.resources
+C:\Users\fisal\Desktop\Zfood\nutrol_traker\obj\Debug\nutrol_traker.csproj.GenerateResource.cache
+C:\Users\fisal\Desktop\Zfood\nutrol_traker\obj\Debug\nutrol_traker.csproj.CoreCompileInputs.cache
+C:\Users\fisal\Desktop\Zfood\nutrol_traker\obj\Debug\nutrol_traker.exe
+C:\Users\fisal\Desktop\Zfood\nutrol_traker\obj\Debug\nutrol_traker.pdb
